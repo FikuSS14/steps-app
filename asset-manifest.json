@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/steps-app/static/css/main.cf39053a.css",
-    "main.js": "/steps-app/static/js/main.fa24f545.js",
+    "main.js": "/steps-app/static/js/main.521398a8.js",
     "index.html": "/steps-app/index.html",
     "main.cf39053a.css.map": "/steps-app/static/css/main.cf39053a.css.map",
-    "main.fa24f545.js.map": "/steps-app/static/js/main.fa24f545.js.map"
+    "main.521398a8.js.map": "/steps-app/static/js/main.521398a8.js.map"
   },
   "entrypoints": [
     "static/css/main.cf39053a.css",
-    "static/js/main.fa24f545.js"
+    "static/js/main.521398a8.js"
   ]
 }
